@@ -1,0 +1,26 @@
+{
+  "first_name": "Bob",
+  "last_name": "Smith",
+  "email": "bob_smith@test.com",
+  "gender": {
+    "Male": 1,
+    "Female": 0,
+    "Other": 0
+  },
+  "mobile": "98798765465",
+  "date_of_birth": "01 December 1995",
+  "hobbies": {
+    "Sports": 0,
+    "Reading": 1,
+    "Music": 1
+  },
+  "subjects": [
+    "Maths",
+    "Physics"
+  ],
+  "picture": "images/my_avatar.png",
+  "address": "Brooklyn Street, Building 102A, Apartment 10",
+  "state": "NCR",
+  "city": "Delhi",
+  "success_message": "Thanks for submitting the form"
+}
